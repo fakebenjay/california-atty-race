@@ -1,0 +1,9 @@
+race,pop,popOffset,atty,attyOffset
+white,36.5,0,66,0
+hispanic,39.1,36.5,6,66
+aapi,14.9,75.6,14.3,72
+black,5.4,90.5,3,86.3
+mideast,,,3,89.3
+amerindian,0.3,95.9,0.2,92.3
+mixed,3.4,96.2,8,92.5
+other,0.3,99.6,,
